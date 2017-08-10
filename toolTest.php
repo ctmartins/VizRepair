@@ -27,10 +27,10 @@
 		<!--[if lte IE 8]>
 		    <link rel="stylesheet" href="leaflet.ie.css" />
 		<![endif]-->
-		<link rel="stylesheet" href="main-green.css">
-		<link href="scrollUpButton.css" rel="stylesheet">
+		<link rel="stylesheet" href="css/main-green.css">
+		<link href="css/scrollUpButton.css" rel="stylesheet">
 
-        <script src="modernizr-2.6.2-respond-1.1.0.min.js"></script>
+        <script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
 <style>
 .scrollUpButton {
  	display: none;
